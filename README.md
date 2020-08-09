@@ -33,11 +33,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [JS Mini Project: TODO List with Add anr Remove Contents](https://github.com/kishore007k/JS_Mini-Project)
-- [JS Testimonials: The feedback of customers in a slider](https://github.com/kishore007k/JS-Testimonial-Slide)
-- [Image slider using Vanilla JavaScript](https://github.com/kishore007k/JS-Image-Slider)
-- [Posts App: Python Django](https://github.com/kishore007k/Post_App)
-- [ToDo App: Python Flask](https://github.com/kishore007k/ToDo-App)
+- [Comment by Kishore Kumar on how to fix "import win32api # noqa: E402 ImportError: DLL load failed while importing win32api: %1 is not a valid"](https://stackoverflow.com/questions/62112902/how-to-fix-import-win32api-noqa-e402-importerror-dll-load-failed-while-impo/62113092#62113092)
+- [Comment by Kishore Kumar on how to fix "import win32api # noqa: E402 ImportError: DLL load failed while importing win32api: %1 is not a valid"](https://stackoverflow.com/questions/62112902/how-to-fix-import-win32api-noqa-e402-importerror-dll-load-failed-while-impo)
+- [how to fix "import win32api # noqa: E402 ImportError: DLL load failed while importing win32api: %1 is not a valid"](https://stackoverflow.com/questions/62112902/how-to-fix-import-win32api-noqa-e402-importerror-dll-load-failed-while-impo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
