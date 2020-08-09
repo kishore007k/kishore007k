@@ -9,6 +9,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="kishore007k.com" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
 [<img align="left" alt="kishore007k.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kishore007k | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kishore007k | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -42,6 +43,7 @@
 
 <img align="left" alt="kishore007k's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kishore007k&show_icons=true&hide_border=true?&theme=prussian" />
 
+[dev]: https://dev.to/kishore007k
 [website]: https://kishorekkportfolio.netlify.app/
 [twitter]: https://twitter.com/kishorekumarst1
 [instagram]: https://www.instagram.com/_k_i_s_h_o_r_e_ak/
