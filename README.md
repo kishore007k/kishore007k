@@ -34,8 +34,6 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Comment by Kishore Kumar on how to fix "import win32api # noqa: E402 ImportError: DLL load failed while importing win32api: %1 is not a valid"](https://stackoverflow.com/questions/62112902/how-to-fix-import-win32api-noqa-e402-importerror-dll-load-failed-while-impo/62113092#62113092)
-- [Comment by Kishore Kumar on how to fix "import win32api # noqa: E402 ImportError: DLL load failed while importing win32api: %1 is not a valid"](https://stackoverflow.com/questions/62112902/how-to-fix-import-win32api-noqa-e402-importerror-dll-load-failed-while-impo)
 - [how to fix "import win32api # noqa: E402 ImportError: DLL load failed while importing win32api: %1 is not a valid"](https://stackoverflow.com/questions/62112902/how-to-fix-import-win32api-noqa-e402-importerror-dll-load-failed-while-impo)
 <!-- BLOG-POST-LIST:END -->
 
