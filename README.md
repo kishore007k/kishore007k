@@ -32,6 +32,16 @@
 
 ---
 
+[<img alt="HTML5" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img alt="HTML5" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="HTML5" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devcommunity]
+
+
+### GitHub Recent Activity:
+<!--START_SECTION:activity-->
+
+---
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [how to fix "import win32api # noqa: E402 ImportError: DLL load failed while importing win32api: %1 is not a valid"](https://stackoverflow.com/questions/62112902/how-to-fix-import-win32api-noqa-e402-importerror-dll-load-failed-while-impo)
@@ -46,3 +56,4 @@
 [twitter]: https://twitter.com/kishorekumarst1
 [instagram]: https://www.instagram.com/_k_i_s_h_o_r_e_ak/
 [linkedin]: https://www.linkedin.com/in/kishore-kumar-6bb5801a2/
+[devcommunity]: https://dev.to/kishore007k
