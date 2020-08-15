@@ -39,8 +39,7 @@
 
 ---
 
-<img align="left" alt="kishore007k's Github Stats" src="https://github-readme-stats.kishore007k.vercel.app
-/api?username=kishore007k&show_icons=true&hide_border=true?&theme=prussian" />
+<img align="left" alt="kishore007k's Github Stats" src="https://github-readme-stats.kishore007k.vercel.app/api?username=kishore007k&show_icons=true&hide_border=true?&theme=prussian" />
 
 [dev]: https://dev.to/kishore007k
 [website]: https://kishorekkportfolio.netlify.app/
