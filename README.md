@@ -39,6 +39,11 @@
 
 ### GitHub Recent Activity:
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#9](https://github.com//kishore007k/github-activity-readme/issues/9) in [kishore007k/github-activity-readme](https://github.com//kishore007k/github-activity-readme)
+2. 🗣 Commented on [#10](https://github.com//kishore007k/github-activity-readme/issues/10) in [kishore007k/github-activity-readme](https://github.com//kishore007k/github-activity-readme)
+3. 🗣 Commented on [#10](https://github.com//kishore007k/github-activity-readme/issues/10) in [kishore007k/github-activity-readme](https://github.com//kishore007k/github-activity-readme)
+4. 🗣 Commented on [#10](https://github.com//kishore007k/github-activity-readme/issues/10) in [kishore007k/github-activity-readme](https://github.com//kishore007k/github-activity-readme)
+5. 🗣 Commented on [#1748](https://github.com//webpack/webpack-cli/issues/1748) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
 <!--END_SECTION:activity-->
 
 ---
