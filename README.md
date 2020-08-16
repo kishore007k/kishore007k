@@ -39,7 +39,7 @@
 
 ### GitHub Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commited [Readme Update🎈](https://github.com/kishore007k/snap-shot) in [kishore007k/snap-shot](https://github.com//kishore007k/github-activity-readme)
+1. 🗣 Commited [Readme Update🎈](https://github.com/kishore007k/snap-shot) in [kishore007k/snap-shot](https://github.com/kishore007k/snap-shot)
 2. 🍴 Forked [Readme Stats](https://github.com/kishore007k/github-readme-stats) in [kishore007k/github-readme-stats](https://github.com/kishore007k/github-readme-stats)
 3. 🌍 Commited [Gif added 🎞](https://github.com/kishore007k/weather-app) in [kishore007k/weather-app](https://github.com/kishore007k/weather-app)
 4. 🗣 Commited [Organized the Files in order 😄](https://github.com/kishore007k/LetsUpgrade) in [kishore007k/LetsUpgrade](https://github.com/kishore007k/LetsUpgrade)
