@@ -40,10 +40,6 @@
 ### GitHub Recent Activity:
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#12](https://github.com//Yog9/SnapShot/issues/12) in [Yog9/SnapShot](https://github.com//Yog9/SnapShot)
-2. undefined
-3. undefined
-4. undefined
-5. undefined
 <!--END_SECTION:activity-->
 
 ---
