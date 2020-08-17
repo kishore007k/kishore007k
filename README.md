@@ -1,5 +1,7 @@
 ### Hi there, I'm Kishore - aka [kishore007k][website] 👋
 
+Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my Work space clean and Organized📚. I'm currently pursuing my B.E Degreee 👔 in Engineering. I ❤ coding. I'm currently looking for Internship on **Front End Web Development** .
+
 ## I'm a Student, Engineer, and Developer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning ReactJS 🤞
