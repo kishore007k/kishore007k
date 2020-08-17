@@ -39,11 +39,11 @@
 
 ### GitHub Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commited [Readme Update🎈](https://github.com/kishore007k/snap-shot) in [kishore007k/snap-shot](https://github.com/kishore007k/snap-shot)
-2. 🍴 Forked [Readme Stats](https://github.com/kishore007k/github-readme-stats) in [kishore007k/github-readme-stats](https://github.com/kishore007k/github-readme-stats)
-3. 🌍 Commited [Gif added 🎞](https://github.com/kishore007k/weather-app) in [kishore007k/weather-app](https://github.com/kishore007k/weather-app)
-4. 🗣 Commited [Organized the Files in order 😄](https://github.com/kishore007k/LetsUpgrade) in [kishore007k/LetsUpgrade](https://github.com/kishore007k/LetsUpgrade)
-5. 📑 Commited [first commit](https://github.com/kishore007k/React-Todo-App) in [kishore007k/React-Todo-App](https://github.com/kishore007k/React-Todo-App)
+1. ❗️ Opened issue [#12](https://github.com//Yog9/SnapShot/issues/12) in [Yog9/SnapShot](https://github.com//Yog9/SnapShot)
+2. undefined
+3. undefined
+4. undefined
+5. undefined
 <!--END_SECTION:activity-->
 
 ---
