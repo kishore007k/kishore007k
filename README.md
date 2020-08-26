@@ -41,7 +41,7 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 ### GitHub Recent Activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#579](https://github.com//layer5io/layer5/issues/579) in [layer5io/layer5](https://github.com//layer5io/layer5)
+1. 🗣 Commented on [#973](https://github.com//layer5io/meshery/issues/973) in [layer5io/meshery](https://github.com//layer5io/meshery)
 <!--END_SECTION:activity-->
 
 ---
