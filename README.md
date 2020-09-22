@@ -40,22 +40,18 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 <br />
 <br />
 
----
-
-<br />
-
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/kishore007k/layer5?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kishore007k/layer5?color=blue&style=flat-square)
-<br />
 
----
+<br />
 
 [<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="Linked In" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="Dev Community" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devcommunity]
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=for-the-badge&logo=gmail&logoColor=#ff69b4" />][gmail]
 [<img alt="Slack" src="https://img.shields.io/badge/Slack-%230A0A0A.svg?&style=for-the-badge&logo=slack&logoColor=#ff69b4" />][slack]
-
+---
+<br />
 
 ### GitHub Recent Activity :
 <!--START_SECTION:activity-->
