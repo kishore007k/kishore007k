@@ -1,4 +1,4 @@
-<img alt="Instagram" width="500px" text-align="center" src="./assets/Copy%20of%20Nature%20Welcome%20Church%20Template%20-%20Made%20with%20PosterMyWall.jpg" /><br />
+<img alt="Instagram" width="100%" text-align="center" src="./assets/Copy%20of%20Nature%20Welcome%20Church%20Template%20-%20Made%20with%20PosterMyWall.jpg" /><br />
 
 ### Hi there, I'm Kishore - aka [kishore007k][website] 👋 
 
