@@ -44,13 +44,10 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
   <a href="https://app.slack.com/client/TDL4L01AR/D019GRUUML4"><img alt="kishore007k | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" /></a>
 </p>
 
-<br />
-<br />
-
 <p style="text-align: center">
   <a href="https://www.instagram.com/_k_i_s_h_o_r_e_ak/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kishore-kumar-6bb5801a2/"><img alt="Linked In" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dev.to/kishore007k"><img alt="Dev Community" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
+  <a href="https://dev.to/kishore007k"><img alt="Dev Community" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />   </a>
   <a href="kishorekumarstar07@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=for-the-badge&logo=gmail&logoColor=#ff69b4" /></a>
   <a href="https://app.slack.com/client/TDL4L01AR/D019GRUUML4"><img alt="Slack" src="https://img.shields.io/badge/Slack-%230A0A0A.svg?&style=for-the-badge&logo=slack&logoColor=#ff69b4" /></a>
 </p>
