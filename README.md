@@ -13,6 +13,7 @@
 
 <br />
 
+---
 
 ### Hi there, I'm Kishore - aka [kishore007k][website] 👋 
 
@@ -73,6 +74,8 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 <p align="center"><a href="https://github.com/kishore007k"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore007k&layout=compact" /></a></p>
 
+---
+
 ### Connect with me :
 
 <p align="center">
@@ -92,6 +95,7 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
   <a href="https://app.slack.com/client/TDL4L01AR/D019GRUUML4"><img alt="kishore007k | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" /></a>
 </p>
 
+---
 
 [dev]: https://dev.to/kishore007k
 [devcommunity]: https://dev.to/kishore007k
