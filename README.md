@@ -1,11 +1,5 @@
 <img alt="Instagram" width="100%" text-align="center" src="./assets/Copy%20of%20Nature%20Welcome%20Church%20Template%20-%20Made%20with%20PosterMyWall.jpg" /><br />
 
-### Hi there, I'm Kishore - aka [kishore007k][website] 👋 
-
-Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my Work space clean and Organized📚. I'm currently pursuing my B.E Degree 👔 in Engineering. I ❤ coding. I'm currently looking for Internship on **Front End Web Development** .
-
-<br />
-
 <p align="center">
 <img alt="Built With ❤" height="30px" src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img alt="Built By Developers" height="30px" src="https://forthebadge.com/images/badges/built-by-developers.svg" />
@@ -18,6 +12,11 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 </p>
 
 <br />
+
+
+### Hi there, I'm Kishore - aka [kishore007k][website] 👋 
+
+Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my Work space clean and Organized📚. I'm currently pursuing my B.E Degree 👔 in Engineering. I ❤ coding. I'm currently looking for Internship on **Front End Web Development** .
 
 ## I'm a Student, Engineer, and Developer !
 
