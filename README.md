@@ -2,6 +2,9 @@
 
 Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my Work space clean and Organized📚. I'm currently pursuing my B.E Degree 👔 in Engineering. I ❤ coding. I'm currently looking for Internship on **Front End Web Development** .
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/kishore007k/layer5?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/kishore007k/layer5?color=blue&style=flat-square)
+
 ## I'm a Student, Engineer, and Developer!
 
 - 🔭 I’m currently working on a [Layer5][Site]!
@@ -12,12 +15,21 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 ### Connect with me :
 
-[<img align="left" alt="kishore007k.com" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
-[<img align="left" alt="kishore007k.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kishore007k | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kishore007k | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kishore007k | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kishore007k | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][slack]
+
+<br />
+<br />
+
+[<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img alt="Linked In" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="Dev Community" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devcommunity]
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=for-the-badge&logo=gmail&logoColor=#ff69b4" />][gmail]
+[<img alt="Slack" src="https://img.shields.io/badge/Slack-%230A0A0A.svg?&style=for-the-badge&logo=slack&logoColor=#ff69b4" />][slack]
 
 <br />
 
@@ -38,18 +50,6 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 [<img align="left" alt="Yaml" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 <br />
-<br />
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/kishore007k/layer5?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/kishore007k/layer5?color=blue&style=flat-square)
-
-<br />
-
-[<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img alt="Linked In" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="Dev Community" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devcommunity]
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=for-the-badge&logo=gmail&logoColor=#ff69b4" />][gmail]
-[<img alt="Slack" src="https://img.shields.io/badge/Slack-%230A0A0A.svg?&style=for-the-badge&logo=slack&logoColor=#ff69b4" />][slack]
 ---
 <br />
 
