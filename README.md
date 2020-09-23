@@ -1,60 +1,74 @@
-### Hi there, I'm Kishore - aka [kishore007k][website] 👋 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+### Hi there, I'm Kishore - aka [kishore007k][website] 👋 
 
 Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my Work space clean and Organized📚. I'm currently pursuing my B.E Degree 👔 in Engineering. I ❤ coding. I'm currently looking for Internship on **Front End Web Development** .
 
+<br />
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/kishore007k/layer5?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/kishore007k/layer5?color=blue&style=flat-square)
-![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
-![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
-![made-in-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+<p style="text-align: center; padding: 10px;">
+<img alt="Built With ❤" height="30px" src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img alt="Built By Developers" height="30px" src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+<img alt="Built By Developers" height="30px" src="https://forthebadge.com/images/badges/built-with-swag.svg" />
 
-## I'm a Student, Engineer, and Developer!
+<br />
 
-- 🔭 I’m currently working on a [Layer5][Site]!
-- 🌱 I’m currently learning ReactJS 🤞
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Code and play Games.
+<img alt="Dev" height="30px" src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
+<img alt="Built By Developers" height="30px" src="https://forthebadge.com/images/badges/check-it-out.svg" />
+</p>
+
+<br />
+
+## I'm a Student, Engineer, and Developer !
+
+<p>
+
+  - 🔭 I’m currently working on a [Layer5][Site]!
+  - 🌱 I’m currently learning ReactJS 🤞
+  - 👯 I’m looking to collaborate with other content creators
+  - 🥅 2021 Goals: Contribute more to Open Source projects
+  - ⚡ Fun fact: I love to Code and play Games.
+
+</p>
 
 ### Connect with me :
 
-[<img align="left" alt="Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kishore007k | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kishore007k | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kishore007k | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="kishore007k | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][slack]
+<p style="text-align: center">
+  <a href="https://dev.to/kishore007k"><img padding-left="10px" alt="Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /></a>
+  <a href="https://kishorekkportfolio.netlify.app/"><img padding-left="10px" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+  <a href="https://twitter.com/kishorekumarst1"><img padding-left="10px" alt="kishore007k | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <a href="https://www.linkedin.com/in/kishore-kumar-6bb5801a2/"><img padding-left="10px" alt="kishore007k | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://www.instagram.com/_k_i_s_h_o_r_e_ak/"><img padding-left="10px" alt="kishore007k | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+  <a href="https://app.slack.com/client/TDL4L01AR/D019GRUUML4"><img alt="kishore007k | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" /></a>
+</p>
 
 <br />
 <br />
 
-[<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img alt="Linked In" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="Dev Community" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devcommunity]
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=for-the-badge&logo=gmail&logoColor=#ff69b4" />][gmail]
-[<img alt="Slack" src="https://img.shields.io/badge/Slack-%230A0A0A.svg?&style=for-the-badge&logo=slack&logoColor=#ff69b4" />][slack]
+<p style="text-align: center">
+  <a href="https://www.instagram.com/_k_i_s_h_o_r_e_ak/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kishore-kumar-6bb5801a2/"><img alt="Linked In" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/kishore007k"><img alt="Dev Community" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
+  <a href="kishorekumarstar07@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%230A0A0A.svg?&style=for-the-badge&logo=gmail&logoColor=#ff69b4" /></a>
+  <a href="https://app.slack.com/client/TDL4L01AR/D019GRUUML4"><img alt="Slack" src="https://img.shields.io/badge/Slack-%230A0A0A.svg?&style=for-the-badge&logo=slack&logoColor=#ff69b4" /></a>
+</p>
 
 <br />
 
 ### Languages and Tools :
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="Jekyll" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][website]
-[<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />][website]
-[<img align="left" alt="Styled Components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />][website]
-[<img align="left" alt="Yaml" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-<br />
----
+[<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
+[<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
+[<img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
+[<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+[<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
+[<img alt="Jekyll" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" />][website]
+[<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+[<img alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][website]
+[<img alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />][website]
+[<img alt="Styled Components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />][website]
+[<img alt="Yaml" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" />][website]
+[<img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 <br />
 
 ### GitHub Recent Activity :
@@ -66,15 +80,21 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [how to fix "import win32api # noqa: E402 ImportError: DLL load failed while importing win32api: %1 is not a valid"](https://stackoverflow.com/questions/62112902/how-to-fix-import-win32api-noqa-e402-importerror-dll-load-failed-while-impo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
+<br />
 
-<img align="left" alt="kishore007k's Github Stats" src="https://github-readme-stats.kishore007k.vercel.app/api?username=kishore007k&show_icons=true&hide_border=true?&theme=prussian" />
+<p style="text-align: center"><a href="https://github.com/kishore007k"><img alt="kishore007k's Github Stats" src="https://github-readme-stats.kishore007k.vercel.app/api?username=kishore007k&show_icons=true&hide_border=true?&theme=prussian" /></a></p>
 
+<br />
+
+<p style="text-align: center"><a href="https://github.com/kishore007k"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore007k&layout=compact" /></a></p>
+
+[github]: https://github.com/kishore007k
 [dev]: https://dev.to/kishore007k
 [gmail]: kishorekumarstar07@gmail.com
 [website]: https://kishorekkportfolio.netlify.app/
