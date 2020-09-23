@@ -6,7 +6,7 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 <br />
 
-<p style="align: center; padding: 10px;">
+<p align="center">
 <img alt="Built With ❤" height="30px" src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img alt="Built By Developers" height="30px" src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 <img alt="Built By Developers" height="30px" src="https://forthebadge.com/images/badges/built-with-swag.svg" />
@@ -33,7 +33,7 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 ### Connect with me :
 
-<p style="align: center">
+<p align="center">
   <a href="https://dev.to/kishore007k"><img padding-left="10px" alt="Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /></a>
   <a href="https://kishorekkportfolio.netlify.app/"><img padding-left="10px" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
   <a href="https://twitter.com/kishorekumarst1"><img padding-left="10px" alt="kishore007k | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
@@ -42,7 +42,7 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
   <a href="https://app.slack.com/client/TDL4L01AR/D019GRUUML4"><img alt="kishore007k | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" /></a>
 </p>
 
-<p style="align: center">
+<p align="center">
   <a href="https://www.instagram.com/_k_i_s_h_o_r_e_ak/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kishore-kumar-6bb5801a2/"><img alt="Linked In" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/kishore007k"><img alt="Dev Community" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />   </a>
@@ -87,11 +87,11 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 ---
 <br />
 
-<p style="align: center"><a href="https://github.com/kishore007k"><img alt="kishore007k's Github Stats" src="https://github-readme-stats.kishore007k.vercel.app/api?username=kishore007k&show_icons=true&hide_border=true?&theme=prussian" /></a></p>
+<p align="center"><a href="https://github.com/kishore007k"><img alt="kishore007k's Github Stats" src="https://github-readme-stats.kishore007k.vercel.app/api?username=kishore007k&show_icons=true&hide_border=true?&theme=prussian" /></a></p>
 
 <br />
 
-<p style="align: center"><a href="https://github.com/kishore007k"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore007k&layout=compact" /></a></p>
+<p align="center"><a href="https://github.com/kishore007k"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore007k&layout=compact" /></a></p>
 
 [dev]: https://dev.to/kishore007k
 [devcommunity]: https://dev.to/kishore007k
