@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Hi there, I'm Kishore - aka [kishore007k][website] 👋 
 
 Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my Work space clean and Organized📚. I'm currently pursuing my B.E Degree 👔 in Engineering. I ❤ coding. I'm currently looking for Internship on **Front End Web Development** .
@@ -94,13 +98,13 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 <p style="text-align: center"><a href="https://github.com/kishore007k"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore007k&layout=compact" /></a></p>
 
-[github]: https://github.com/kishore007k
 [dev]: https://dev.to/kishore007k
+[devcommunity]: https://dev.to/kishore007k
+[github]: https://github.com/kishore007k
 [gmail]: kishorekumarstar07@gmail.com
-[website]: https://kishorekkportfolio.netlify.app/
-[twitter]: https://twitter.com/kishorekumarst1
 [instagram]: https://www.instagram.com/_k_i_s_h_o_r_e_ak/
 [linkedin]: https://www.linkedin.com/in/kishore-kumar-6bb5801a2/
-[devcommunity]: https://dev.to/kishore007k
 [site]: https://github.com/layer5io/layer5
 [slack]: https://app.slack.com/client/TDL4L01AR/D019GRUUML4
+[twitter]: https://twitter.com/kishorekumarst1
+[website]: https://kishorekkportfolio.netlify.app/
