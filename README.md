@@ -53,9 +53,9 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 ### GitHub Recent Activity :
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#811](https://github.com//layer5io/layer5/pull/811) in [layer5io/layer5](https://github.com//layer5io/layer5)
-2. ❌ Closed PR [#807](https://github.com//layer5io/layer5/pull/807) in [layer5io/layer5](https://github.com//layer5io/layer5)
-3. 💪 Opened PR [#807](https://github.com//layer5io/layer5/pull/807) in [layer5io/layer5](https://github.com//layer5io/layer5)
+1. 🗣 Commented on [#814](https://github.com//layer5io/layer5/issues/814) in [layer5io/layer5](https://github.com//layer5io/layer5)
+2. 🗣 Commented on [#739](https://github.com//layer5io/layer5/issues/739) in [layer5io/layer5](https://github.com//layer5io/layer5)
+3. 💪 Opened PR [#814](https://github.com//layer5io/layer5/pull/814) in [layer5io/layer5](https://github.com//layer5io/layer5)
 <!--END_SECTION:activity-->
 
 ---
