@@ -72,8 +72,7 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 <br />
 
-<p align="center"><a href="https://github.com/kishore007k"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore007k&layout=compact" /></a></p>
-
+<p align="center"><a href="https://github.com/kishore007k"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore007k&show_icons=true&theme=prussian&layout=compact" /></a></p>
 ---
 
 ### Connect with me :
