@@ -54,8 +54,8 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 ### GitHub Recent Activity :
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/starboy007-debug/Developer/issues/3) in [starboy007-debug/Developer](https://github.com/starboy007-debug/Developer)
-2. 🗣 Commented on [#18](https://github.com/ruthwik3690/psychic-spoon/issues/18) in [ruthwik3690/psychic-spoon](https://github.com/ruthwik3690/psychic-spoon)
-3. 🗣 Commented on [#22640](https://github.com/guardian/frontend/issues/22640) in [guardian/frontend](https://github.com/guardian/frontend)
+2. 🗣 Commented on [#3](https://github.com/starboy007-debug/Developer/issues/3) in [starboy007-debug/Developer](https://github.com/starboy007-debug/Developer)
+3. 🗣 Commented on [#3](https://github.com/starboy007-debug/Developer/issues/3) in [starboy007-debug/Developer](https://github.com/starboy007-debug/Developer)
 <!--END_SECTION:activity-->
 
 ---
