@@ -53,9 +53,9 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 ### GitHub Recent Activity :
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#981](https://github.com/layer5io/layer5/issues/981) in [layer5io/layer5](https://github.com/layer5io/layer5)
-2. 🗣 Commented on [#90](https://github.com/adobe/adobe.github.com/issues/90) in [adobe/adobe.github.com](https://github.com/adobe/adobe.github.com)
-3. 🗣 Commented on [#347](https://github.com/layer5io/meshery.io/issues/347) in [layer5io/meshery.io](https://github.com/layer5io/meshery.io)
+1. 💪 Opened PR [#988](https://github.com/layer5io/layer5/pull/988) in [layer5io/layer5](https://github.com/layer5io/layer5)
+2. 🗣 Commented on [#551](https://github.com/github/docs/issues/551) in [github/docs](https://github.com/github/docs)
+3. 🗣 Commented on [#15975](https://github.com/mattermost/mattermost-server/issues/15975) in [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)
 <!--END_SECTION:activity-->
 
 ---
