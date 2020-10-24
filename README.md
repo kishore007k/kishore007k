@@ -62,7 +62,8 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 ### 📕 Latest Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [how to fix "import win32api # noqa: E402 ImportError: DLL load failed while importing win32api: %1 is not a valid"](https://stackoverflow.com/questions/62112902/how-to-fix-import-win32api-noqa-e402-importerror-dll-load-failed-while-impo)
+- [Learn React useContext very simply](https://dev.to/kishore007k/learn-react-usecontext-very-simply-3dpe)
+- [Map API🌎](https://dev.to/kishore007k/map-api-1dji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
