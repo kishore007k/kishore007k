@@ -62,6 +62,7 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 ### 📕 Latest Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Using fetch with async/await](https://dev.to/kishore007k/using-fetch-with-async-await-54od)
 - [Make it easy! 'React useContext'](https://dev.to/kishore007k/learn-react-usecontext-very-simply-3dpe)
 - [Map API🌎](https://dev.to/kishore007k/map-api-1dji)
 <!-- BLOG-POST-LIST:END -->
