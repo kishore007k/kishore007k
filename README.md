@@ -53,9 +53,9 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 ### GitHub Recent Activity :
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15975](https://github.com/mattermost/mattermost-server/issues/15975) in [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)
-2. 🗣 Commented on [#1297](https://github.com/layer5io/layer5/issues/1297) in [layer5io/layer5](https://github.com/layer5io/layer5)
-3. 🗣 Commented on [#1297](https://github.com/layer5io/layer5/issues/1297) in [layer5io/layer5](https://github.com/layer5io/layer5)
+1. 🎉 Merged PR [#1](https://github.com/kishore007k/MERN/pull/1) in [kishore007k/MERN](https://github.com/kishore007k/MERN)
+2. 💪 Opened PR [#1](https://github.com/kishore007k/MERN/pull/1) in [kishore007k/MERN](https://github.com/kishore007k/MERN)
+3. 🗣 Commented on [#15975](https://github.com/mattermost/mattermost-server/issues/15975) in [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)
 <!--END_SECTION:activity-->
 
 ---
