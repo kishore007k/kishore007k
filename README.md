@@ -53,9 +53,9 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 ### GitHub Recent Activity :
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/kishore007k/pet_animals/pull/8) in [kishore007k/pet_animals](https://github.com/kishore007k/pet_animals)
-2. 🎉 Merged PR [#7](https://github.com/kishore007k/pet_animals/pull/7) in [kishore007k/pet_animals](https://github.com/kishore007k/pet_animals)
-3. 💪 Opened PR [#7](https://github.com/kishore007k/pet_animals/pull/7) in [kishore007k/pet_animals](https://github.com/kishore007k/pet_animals)
+1. 🎉 Merged PR [#9](https://github.com/kishore007k/pet_animals/pull/9) in [kishore007k/pet_animals](https://github.com/kishore007k/pet_animals)
+2. 💪 Opened PR [#9](https://github.com/kishore007k/pet_animals/pull/9) in [kishore007k/pet_animals](https://github.com/kishore007k/pet_animals)
+3. 🎉 Merged PR [#8](https://github.com/kishore007k/pet_animals/pull/8) in [kishore007k/pet_animals](https://github.com/kishore007k/pet_animals)
 <!--END_SECTION:activity-->
 
 ---
