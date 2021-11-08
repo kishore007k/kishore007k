@@ -62,7 +62,7 @@ Hi!! I'm **Kishore** a ***Hard worker*** , ***Introvert*** and I like to keep my
 
 ### 📕 Latest Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Make it easy! 'React useContext'](https://dev.to/kishore007k/learn-react-usecontext-very-simply-3dpe)
+- [Make it easy! &#39;React useContext&#39;](https://dev.to/kishore007k/learn-react-usecontext-very-simply-3dpe)
 - [Map API🌎](https://dev.to/kishore007k/map-api-1dji)
 <!-- BLOG-POST-LIST:END -->
 
